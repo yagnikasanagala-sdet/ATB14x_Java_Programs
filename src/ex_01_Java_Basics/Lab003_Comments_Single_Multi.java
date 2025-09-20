@@ -7,7 +7,7 @@ public class Lab003_Comments_Single_Multi {
         System.out.println(a);
         System.out.println(a+2);
 
-        /** multi line comment
+        /*multi line comment
          * added in this program to represent 'a' as  integer
          */
     }
